@@ -1,0 +1,10 @@
+1. Wybierzmy z paska narzędzi opcję VCS -> ENable Version Control Itegration, wybierając Automatycznie tworzone jest 
+repoztorium i .gitignore.
+2. Dodajemy pliki z .idea do .gitignore.
+3. Dodajemy pliki i .gitignore do kolejki.
+4. Robimy commita.
+5. Tworzymy brancha(VCS -> GIT -> Branches -> new branch)
+6. commitujemy.
+7. Przechodzimy do mastera VCS - Git - branches - master - checkout
+8. I robimy Merge na koncu VCS - Git - Branches - master - merge\
+Zrobione dzieki : https://www.youtube.com/watch?v=mf2-MOl0VXY
